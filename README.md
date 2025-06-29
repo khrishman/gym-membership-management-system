@@ -41,4 +41,4 @@ javac GymGUI.java GymMember.java RegularMember.java PremiumMember.java
 java GymGUI
 ```
 
-![GUI](images/gui.pnggui.png)
+![GUI](images/gui.png)
